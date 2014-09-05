@@ -18,6 +18,6 @@ Currently, this class supports:
 * Walking backwards in first person mode causes a weird jitter
 * Sometimes, the character will be at an angle after a mode switch. Haven't figured out how to reliably replicate.
 
-*UE4 licensees (paid or academic) may use the code written by me for any purposes whatsoever without restriction. No claim of ownership is made on the default UE4 assets owned by Epic, which are still subject to the original licensing terms. *
+*UE4 licensees (paid or academic) may use the code written by me for any purposes whatsoever without restriction. No claim of ownership is made on the default UE4 assets owned by Epic, which are still subject to the original licensing terms.*
 
 Additions and bug fixes are welcome.
