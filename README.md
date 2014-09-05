@@ -20,4 +20,6 @@ Currently, this class supports:
 
 *UE4 licensees (paid or academic) may use the code written by me for any purposes whatsoever without restriction. No claim of ownership is made on the default UE4 assets owned by Epic, which are still subject to the original licensing terms.*
 
+Smooth follow algorithm adapted to C++ from https://www.youtube.com/watch?v=UMcmqsMzcFg
+
 Additions and bug fixes are welcome.
