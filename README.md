@@ -7,9 +7,9 @@ The bulk of the functionality is in the C++ class, but this project includes a B
 
 Currently, this class supports:
 
-**Default Third Person** - This is essentially the same behavior as the default UE4 Third Person Template
-**First Person** - This is essentially the same behavior as the default UE4 First Person template (or will be, at least)
-**Smooth Follow Third Person** - This is a camera modeled after the Arkham-style camera. The camera smoothly follows the player, and after periods of inactivity slowly resets to behind the player.
+- **Default Third Person**:This is essentially the same behavior as the default UE4 Third Person Template
+- **First Person** - This is essentially the same behavior as the default UE4 First Person template (or will be, at least)
+- **Smooth Follow Third Person**: This is a camera modeled after the Arkham-style camera. The camera smoothly follows the player, and after periods of inactivity slowly resets to behind the player.
 
 **Not Yet Done**
 - Separate First Person and Third Person meshes. I ran into problems getting two different meshes with different skeletons working properly, so backed this feature out for now.
