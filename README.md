@@ -15,7 +15,7 @@ Currently, this class supports:
 - Separate First Person and Third Person meshes. I ran into problems getting two different meshes with different skeletons working properly, so backed this feature out for now.
 
 **Known Bugs**
-* Walking backwards in first person mode causes a weird jitter
+* Walking backwards in first person mode causes a weird camera jitter
 * Sometimes, the character will be at an angle after a mode switch. Haven't figured out how to reliably replicate.
 
 *UE4 licensees (paid or academic) may use the code written by me for any purposes whatsoever without restriction. No claim of ownership is made on the UE4 engine code or default assets, which are owned by Epic, and still subject to the original licensing terms.*
