@@ -3,7 +3,7 @@ Explore Controller for UE4
 
 A fairly simple C++ Character Controller class for UE4 that supports multiple first and third person camera modes. I wrote this to re-familiarize myself with C++ and to wrap my head around the way UE4 uses C++. This project uses UE4.4.1, however the source code should be compatible with older versions.
 
-The bulk of the functionality is in the C++ class, but this project includes a Blueprint subclass so that you can add Blueprint or override values in the editor.
+The bulk of the functionality is in the C++ class, but this project includes a Blueprint subclass so that you can add functionality using Blueprint or override values in the editor.
 
 Currently, this class supports:
 
