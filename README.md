@@ -18,7 +18,7 @@ Currently, this class supports:
 * Walking backwards in first person mode causes a weird camera jitter
 * Sometimes, the character will be at an angle after a mode switch. Haven't figured out how to reliably replicate.
 
-*UE4 licensees (paid or academic) may use the code written by me for any purposes whatsoever without restriction. No claim of ownership is made on the UE4 engine code or default assets, which are owned by Epic, and still subject to the original licensing terms.*
+*UE4 licensees (paid or academic) may use the code written by me for any purposes whatsoever without restriction. No claim of ownership is made on the UE4 code or default assets, which are owned by Epic and subject to the original licensing terms.*
 
 Smooth follow algorithm adapted to C++ from https://www.youtube.com/watch?v=UMcmqsMzcFg
 
